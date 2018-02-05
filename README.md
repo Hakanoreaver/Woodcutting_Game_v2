@@ -5,10 +5,10 @@ java Graphics and GUI components. The aim of the game is to gather as much wood 
 
 Prerequisites : IntelliJ IDEA
 
-Installing : In IntelliJ hit File
-                             New
-                             Project from Version Control
-                             Git
+Installing : In IntelliJ hit -> File
+                             -> New
+                             -> Project from Version Control
+                             -> Git
                              
 Then put the address of the repository in as the git address and clone the repository. Build the project and run the main Class.
 
